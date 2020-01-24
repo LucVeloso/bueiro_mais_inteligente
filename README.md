@@ -12,7 +12,7 @@ Aplicação de Iot com a framework Qt, a  e o microcontrolador ESP8266.
 
 ### Como Funciona o Bueiro+ inteligente?
 
-#### Monitorando
+#### Monitoramento
 
 O site permite que o usuário tenha acesso remoto, apenas sendo necessário conexão com a internet.
 
