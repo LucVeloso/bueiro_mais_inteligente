@@ -35,6 +35,7 @@ A página web está hospedada gratuitamente no Heroku, uma plataforma cloud que 
 ## Projeto da Disciplina Técnicas de Programação do curso de Engenharia Elétrica - IFPB
 
 Para maiores informações, dúvidas ou feedback:
-lucas.paulo@academico.ifpb.edu.br
-vanessa.luz@academico.ifpb.edu.br
-taynara.lopes@academico.ifpb.edu.br
+- lucas.paulo@academico.ifpb.edu.br
+- taynara.lopes@academico.ifpb.edu.br
+- vanessa.luz@academico.ifpb.edu.br
+
