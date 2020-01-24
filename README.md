@@ -17,7 +17,7 @@ Aplicação de Iot com a framework Qt, e o microcontrolador ESP8266.
 
 #### Monitoramento
 
-O site(http://bueiro-verde.herokuapp.com/) permite que o usuário tenha acesso remoto, apenas sendo necessário conexão com a internet.
+O [site](http://bueiro-verde.herokuapp.com/) permite que o usuário tenha acesso remoto, apenas sendo necessário conexão com a internet.
 
 ### Informações técnicas
 
