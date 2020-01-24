@@ -7,7 +7,7 @@ Aplicação de Iot com a framework Qt, e o microcontrolador ESP8266.
   
   Por este motivo, em algumas cidades foram colocados uma espécie de rede nos bueiros, onde o lixo fica retido até que a coleta o recolha. Porém, hoje, o conceito 'Internet das coisas' nos possibilita conectar dispositivos de sistemas e serviços ao favor da humanidade. Com isso, surgiu o Bueiro+ Inteligente, o qual além da rede que retém os resíduos, ele contém um monitoramento através de sensores de carga e nível, ligados na Web para que juntos, emitam um sinal do tempo adequado e específico de cada bueiro, quando o limite de capacidade vem sendo atingido para que a equipe de agentes de limpeza possa esvaziá-las.
   
-   A iniciativa além de evitar enchentes,é um ganho ambiental pois ao reter o resíduo sólido, impede que ele corra para os rios. A sustentabilidade é um ponto importante a ser citado, já que cerca de 40% do lixo retirado dos bueiros podem ser reciclados, gerando fonte de renda para cooperativas de reciclagem.
+   A iniciativa além de evitar enchentes, é um ganho ambiental pois ao reter o resíduo sólido, impede que ele corra para os rios. A sustentabilidade é um ponto importante a ser citado, já que cerca de 40% do lixo retirado dos bueiros podem ser reciclados, gerando fonte de renda para cooperativas de reciclagem.
    
 ![LOGO](https://github.com/vanessadaluz6/bueiro_mais_inteligente/blob/master/fotos-bueirofofo/logo.png)
 
