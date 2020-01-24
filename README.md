@@ -30,4 +30,11 @@ O site permite que o usuário tenha acesso remoto, apenas sendo necessário cone
 
 #### A Página Web
 
-A página web está hospedada gratuitamente no Heroku, uma plataforma cloud que permite o deploy de aplicações para desenvolvedores. Foi utilizado HTML e CSS, para poder organizar o site, como também Python, para reagir à eventos e fazer a comunicação com o software para computador e para a ESP8266. É notável indicar a importância da biblioteca Flask feita pela comunidade do Python, que é bastante crítica para a realização da comunicação e o deploy do servidor. 
+A página web está hospedada gratuitamente no Heroku, uma plataforma cloud que permite o deploy de aplicações para desenvolvedores. Foi utilizado HTML e CSS, para poder organizar o site, como também Python, para reagir à eventos e fazer a comunicação com o software para computador e para a ESP8266. É notável indicar a importância da biblioteca Flask feita pela comunidade do Python, que é bastante crítica para a realização da comunicação e o deploy do servidor.P 
+
+## Projeto da Disciplina Técnicas de Programação do curso de Engenharia Elétrica - IFPB
+
+Para maiores informações, dúvidas ou feedback:
+lucas.paulo@academico.ifpb.edu.br
+vanessa.luz@academico.ifpb.edu.br
+taynara.lopes@academico.ifpb.edu.br
