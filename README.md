@@ -35,7 +35,7 @@ O [site](http://bueiro-verde.herokuapp.com/) permite que o usuário tenha acesso
 
 A página web está hospedada gratuitamente no Heroku, uma plataforma cloud que permite o deploy de aplicações para desenvolvedores. Foi utilizado HTML e CSS, para poder organizar o site, como também Python, para reagir à eventos e fazer a comunicação com o software para computador e para a ESP8266. É notável indicar a importância da biblioteca Flask feita pela comunidade do Python, que é bastante crítica para a realização da comunicação e o deploy do servidor.P 
 
-# Projeto da Disciplina Técnicas de Programação do curso de Engenharia Elétrica - IFPB
+### Projeto da Disciplina Técnicas de Programação do curso de Engenharia Elétrica - IFPB
 
 Para maiores informações, dúvidas ou feedback:
 - lucas.paulo@academico.ifpb.edu.br
