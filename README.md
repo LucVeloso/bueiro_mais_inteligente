@@ -39,9 +39,11 @@ A página web está hospedada gratuitamente no Heroku, uma plataforma cloud que 
 
 ### QT Creator
 
-Essa interface tem como objetivo auxiliar no monitoramento dos bueiros inteligentes utilizando uma interface gráfica intuitiva. 
+Essa interface tem como objetivo auxiliar no monitoramento dos bueiros inteligentes e na configuração da porta serial e velocidade  utilizando uma interface gráfica intuitiva. 
 
 ![inicio](https://github.com/vanessadaluz6/bueiro_mais_inteligente/blob/master/fotos-bueirofofo/telainicial.png)
+
+### Conexão
 
 ![conexao](https://github.com/vanessadaluz6/bueiro_mais_inteligente/blob/master/fotos-bueirofofo/configura%C3%A7%C3%B5es.png)
 
