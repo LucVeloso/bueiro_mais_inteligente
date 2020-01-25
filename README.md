@@ -30,7 +30,7 @@ O [site](http://bueiro-verde.herokuapp.com/) permite que o usuário tenha acesso
 
 #### O Circuito
 
-!(CIRCUITO)(https://github.com/vanessadaluz6/bueiro_mais_inteligente/blob/master/fotos-bueirofofo/Capturar.JPG)
+![CIRCUITO](https://github.com/vanessadaluz6/bueiro_mais_inteligente/blob/master/fotos-bueirofofo/Capturar.JPG)
 
 #### A Página Web
 
