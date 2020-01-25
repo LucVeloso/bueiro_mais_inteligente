@@ -27,6 +27,7 @@ O [site](http://bueiro-verde.herokuapp.com/) permite que o usuário tenha acesso
 - [ESP8266](https://cdn-shop.adafruit.com/product-files/2471/0A-ESP8266__Datasheet__EN_v4.3.pdf)
 - Sensor de Carga 50kg
 - Sensor Ultrasonico HY-SRF05
+- Arduino UNO
 
 #### O Circuito
 
