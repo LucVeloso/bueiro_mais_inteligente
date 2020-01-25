@@ -35,7 +35,17 @@ O [site](http://bueiro-verde.herokuapp.com/) permite que o usuário tenha acesso
 
 #### A Página Web
 
-A página web está hospedada gratuitamente no Heroku, uma plataforma cloud que permite o deploy de aplicações para desenvolvedores. Foi utilizado HTML e CSS, para poder organizar o site, como também Python, para reagir à eventos e fazer a comunicação com o software para computador e para a ESP8266. É notável indicar a importância da biblioteca Flask feita pela comunidade do Python, que é bastante crítica para a realização da comunicação e o deploy do servidor.P 
+A página web está hospedada gratuitamente no Heroku, uma plataforma cloud que permite o deploy de aplicações para desenvolvedores. Foi utilizado HTML e CSS, para poder organizar o site, como também Python, para reagir à eventos e fazer a comunicação com o software para computador e para a ESP8266. É notável indicar a importância da biblioteca Flask feita pela comunidade do Python, que é bastante crítica para a realização da comunicação e o deploy do servidor.
+
+### QT Creator
+
+Essa interface tem como objetivo auxiliar no monitoramento dos bueiros inteligentes utilizando uma interface gráfica intuitiva. 
+
+![inicio](https://github.com/vanessadaluz6/bueiro_mais_inteligente/blob/master/fotos-bueirofofo/telainicial.png)
+
+![conexao](https://github.com/vanessadaluz6/bueiro_mais_inteligente/blob/master/fotos-bueirofofo/configura%C3%A7%C3%B5es.png)
+
+
 
 ### Projeto da Disciplina Técnicas de Programação do curso de Engenharia Elétrica - IFPB
 
